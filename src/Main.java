@@ -15,17 +15,17 @@ public class Main {
         System.out.print("Ingrese su email: ");
         String email = sc.nextLine();
 
-        System.out.print("Ingrese su telefono: ");
+        System.out.print("Ingrese su número de teléfono: ");
         String telefono = sc.nextLine();
 
-        System.out.print("Ingrese su direccion: ");
+        System.out.print("Ingrese su dirección: ");
         String direccion = sc.nextLine();
 
         System.out.println(" --RESUMEN DE DATOS-- ");
         System.out.println("Nombre completo: " + nombre + " " + apellido);
         System.out.println("Email: " + email);
-        System.out.println("Telefono: " + telefono);
-        System.out.println("Direccion: " + direccion);
+        System.out.println("Teléfono: " + telefono);
+        System.out.println("Dirección: " + direccion);
 
         sc.close();
 
