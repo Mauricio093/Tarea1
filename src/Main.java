@@ -18,7 +18,7 @@ public class Main {
         System.out.print("Ingrese su telefono: ");
         String telefono = sc.nextLine();
 
-        System.out.print("Ingrese su dirección: ");
+        System.out.print("Ingrese su direccion: ");
         String direccion = sc.nextLine();
 
         System.out.println(" --RESUMEN DE DATOS-- ");
