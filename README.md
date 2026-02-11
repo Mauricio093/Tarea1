@@ -3,6 +3,8 @@
 
 Este proyecto corresponde a la **Tarea 1**, cuyo objetivo es familiarizarse con el uso de **Git y GitHub** mediante la creación y subida de un proyecto sencillo en Java.
 
+---
+
  📝 Descripción del proyecto
 
 El programa solicita al usuario información personal básica como:
