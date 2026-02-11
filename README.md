@@ -1,7 +1,14 @@
+# 📘 Tarea 1 – Introducción a GitHub
+
+Este proyecto corresponde a la **Tarea 1**, cuyo objetivo es familiarizarse con el uso de **Git y GitHub** mediante la creación y subida de un proyecto sencillo en Java.
+
+---
+
 =======
 # Main
 # 📘 Tarea 1 – Introducción a GitHub
 
+integrantes:
 Este proyecto corresponde a la **Tarea 1**, cuyo objetivo es familiarizarse con el uso de **Git y GitHub** mediante la creación y subida de un proyecto sencillo en Java.
 
 >>>>>>> main
